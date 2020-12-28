@@ -34,7 +34,7 @@ def label_creator():
       labels_list.append(x)
 
 def searching():
-  #Asking user for what to search for
+  #Asking user what to search for
   usr_inp = simpledialog.askinteger("Input", "Please enter an integer", parent = root, minvalue = 1, maxvalue = 300)
   #Returns if no value
   if not usr_inp:
