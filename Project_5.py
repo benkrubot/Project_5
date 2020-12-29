@@ -95,7 +95,7 @@ def searching():
 #Creating the buttons
 search_but = Button(root, text = "Search", command = searching)
 search_but.place(x = 50, y = 550)
-search_lab = Label(root, text = "...", font = ("Robot", 12))
+search_lab = Label(root, text = "...", font = ("Roboto", 12))
 search_lab.place(x = 150, y = 550)
 reset_but = Button(root, text = "Reset", command = label_creator)
 reset_but.place(x = 100, y = 550)
