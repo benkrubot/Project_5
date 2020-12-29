@@ -32,7 +32,8 @@ I have a label that updates when the value is found or not found, but I also hav
 ![alt text](https://i.imgur.com/N21HK9I.png)
 
 # What kinds of tests would be useful for this?  How could we test some of it to verify that it was working properly?
-I only used simple print statements to check whether the mid_value was getting updated correctly, as well as another to check whether the length of candidate was getting smaller as well.
+I only used simple print statements to check whether the mid_value was getting updated correctly, as well as another to check whether the length of candidate was getting smaller as well. I’ve had a hard time understanding this part of the class, and due to the unfortunate circumstances of this year and the class as well, I haven’t been able to get the feedback I needed to learn this.
+
 
 # Implement some of those tests in PyTest!
 I’m still unsure how to use PyTest, as well as how to create tests for methods or functions being used in a GUI.
